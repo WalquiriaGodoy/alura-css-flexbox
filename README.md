@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Curso: Flexbox: Posicione os elementos na tela
+=======
+# Curso: Flexbox: Posicione os Elementos na Tela
+>>>>>>> feat(README): Add course contents
 
 ## Formação Front End Alura
 ---
